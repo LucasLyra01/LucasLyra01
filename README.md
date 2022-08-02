@@ -16,22 +16,22 @@
 </div>
 
 <br>
+<div style="display: flex; alignItems: center; justifyContent: center">
+  <div>
+    <a href="https://github.com/LucasLyra01">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLyra01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLyra01&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+  <br>
 
-<div>
-  <a href="https://github.com/LucasLyra01">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLyra01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLyra01&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<br>
-  
-<div style="align: center;">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=LucasLyra01&theme=dracula&hide_border=true&date_format=n%2Fj%5B%2FY%5D&locale=pt-br&border=49DD22"/>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasLyra01&theme=vue" />
-</div>
-  
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucasLyra01&theme=dracula&hide_border=true&date_format=n%2Fj%5B%2FY%5D&locale=pt-br&border=49DD22)](https://git.io/streak-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasLyra01&theme=vue) -->
+  <div>
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=LucasLyra01&theme=dracula&hide_border=true&date_format=n%2Fj%5B%2FY%5D&locale=pt-br&border=49DD22"/>
+  </div>
 
+  <div>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasLyra01&theme=vue" />
+  </div>
+</div>
 ### Contatos:
   
 <div> 
