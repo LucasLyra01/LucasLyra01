@@ -23,6 +23,7 @@
 <br>
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasLyra01&theme=vue)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasLyra01)](https://git.io/streak-stats)
   
 ### Contatos:
   
