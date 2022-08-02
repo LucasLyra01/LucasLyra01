@@ -2,14 +2,14 @@
 
 
 - 🌱 Atualmente trabalho com JavaScript
-- :blue_heart:Desenvolvo aplicações usando Vue.js e React.js
+- :green_heart::blue_heart: Desenvolvo aplicações usando Vue.js e React.js
 - :heart: No Back-end gosto de usar Node.js
 - :computer: Procuro me tornar um desenvolvedor FullStack
 
 <div>
-  <a href="https://github.com/seu-usuário-aqui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLyra01&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/LucasLyra01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLyra01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLyra01&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <!-- <div>
