@@ -13,6 +13,8 @@
 </div> -->
   <br>
 <div> 
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasLyra01&repo=github-readme-stats)](https://github.com/LucasLyra01/github-readme-stats)
 
   <a href = "lucaslyra8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-lyra-2b058b164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
