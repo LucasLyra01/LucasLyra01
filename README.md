@@ -22,8 +22,9 @@
 </div>
 <br>
   
-<div>
+<div style="align: center;">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=LucasLyra01&theme=dracula&hide_border=true&date_format=n%2Fj%5B%2FY%5D&locale=pt-br&border=49DD22"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasLyra01&theme=vue" />
 </div>
   
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucasLyra01&theme=dracula&hide_border=true&date_format=n%2Fj%5B%2FY%5D&locale=pt-br&border=49DD22)](https://git.io/streak-stats)
