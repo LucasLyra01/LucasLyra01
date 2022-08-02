@@ -2,9 +2,14 @@
 
 
 - 🌱 Atualmente trabalho com Front-end
-- :green_heart::blue_heart: Desenvolvo aplicações usando Vue.js e React.js
-- :heart: No Back-end gosto de usar Node.js
 - :computer: Procuro me tornar um desenvolvedor FullStack
+
+### Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 <div>
   <a href="https://github.com/LucasLyra01">
