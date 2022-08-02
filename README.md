@@ -30,4 +30,4 @@
   <a href="https://www.linkedin.com/in/lucas-lyra-2b058b164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
-![Snake animation](https://github.com/LucasLyra01/LucasLyra01/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LucasLyra01/Description/blob/output/github-contribution-grid-snake.svg)
