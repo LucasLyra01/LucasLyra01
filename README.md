@@ -6,6 +6,12 @@
 - :heart: No Back-end gosto de usar Node.js
 - :computer: Procuro me tornar um desenvolvedor FullStack
 
+<div>
+  <a href="https://github.com/seu-usuário-aqui">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLyra01&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLyra01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <!-- <div>
   <a href="https://github.com/Math-Vieira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=math-vieira&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
@@ -14,8 +20,6 @@
   <br>
 <div> 
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasLyra01&repo=github-readme-stats)](https://github.com/LucasLyra01/github-readme-stats)
-
   <a href = "lucaslyra8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-lyra-2b058b164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
