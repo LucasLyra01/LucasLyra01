@@ -22,6 +22,8 @@
 </div>
 <br>
   
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasLyra01&theme=vue)
+  
 ### Contatos:
   
 <div> 
