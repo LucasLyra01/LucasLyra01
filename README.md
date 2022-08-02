@@ -21,12 +21,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLyra01&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
+  
+### Contatos:
+  
 <div> 
   
   <a href = "mailto:lucaslyra8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-lyra-2b058b164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-  ![Snake animation](https://github.com/LucasLyra01/LucasLyra01/blob/output/github-contribution-grid-snake.svg)
-
-  
 </div>
+  
+![Snake animation](https://github.com/LucasLyra01/LucasLyra01/blob/output/github-contribution-grid-snake.svg)
