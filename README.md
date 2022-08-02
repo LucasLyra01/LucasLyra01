@@ -2,7 +2,7 @@
 
 
 - 🌱 Atualmente trabalho com JavaScript
-- :heart: :blue_heart:Desenvolvo aplicações usando Vue.js e React.js
+- :blue_heart:Desenvolvo aplicações usando Vue.js e React.js
 - :heart: No Back-end gosto de usar Node.js
 - :computer: Procuro me tornar um desenvolvedor FullStack
 
