@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Lucas 👋😀
+- Acesse meu portifólio pessoal [aqui](https://github.com/LucasLyra01/LucasLyra01/edit/main/README.md)
 
 - 🌱 Atualmente trabalho com Front-end
 - :computer: Procuro me tornar um desenvolvedor FullStack
