@@ -1,8 +1,18 @@
-### Olá! Eu sou o Lucas 👋😀
-- Acesse meu portifólio pessoal [aqui](https://github.com/LucasLyra01/LucasLyra01/edit/main/README.md)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lucas</h1>
 
-- 🌱 Atualmente trabalho com Front-end
-- :computer: Procuro me tornar um desenvolvedor FullStack
+<h2 align="center">👨 About me:</h2>
+
+<h3>Formação</h3>
+
+- 👨‍🎓 Formado pela  **FAESA** em **Análise e Desenvolvimento de Sistemas**
+- 👨‍💻 **Desenvolvedor Frontend** em **Pró-Memória** com **3 anos** de experiência na área
+
+<br />
+
+ <h3>O que faço no tempo Livre</h3>
+- 🏎️ Gosto de praticar minhas técnicas de pilotagem no simulador 
+- 🚲 Saio para pedalar por longas trilhas e estradas 
+- 🍪 E também testar meus conhecimentos culinários 
 
 ### ⚡ Skills:
 
@@ -19,12 +29,17 @@
 </div>
 
 <br>
+<h2 align="center">🔥 Estatísticas</h2>
 <div style="display: flex; align-items: center; justify-content: center">
-  <div>
-    <a href="https://github.com/LucasLyra01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLyra01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLyra01&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
+  
+      
+      <div align="center">
+       <picture>
+          <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-streak-stats-LucasLyra01.vercel.app/?  user=LucasLyra01&background=0d1117&border=0d1117&ring=6ca1d1&fire=fff&currStreakNum=fff&sideNums=6ca1d1&currStreakLabel=6ca1d1&sideLabels=eee&dates=bbb" />
+          <img width="420px" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasLyra01&ring=6ca1d1&fire=000&currStreakNum=000&sideNums=6ca1d1&currStreakLabel=6ca1d1&sideLabels=222&dates=333&hide_border=true" />
+        </picture>
+        <img width="420px" alt="Github Stats" src="https://github-readme-stats-LucasLyra01.vercel.app/api?username=LucasLyra01&count_private=true&show_icons=true&title_color=fff&icon_color=000&bg_color=60,6ca1d1,2C699F&hide_border=true&text_color=111&border_radius=5"/>
+      </div>
   <br>
 
   <div>
