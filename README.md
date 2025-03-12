@@ -51,6 +51,11 @@
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </div>
 
+### Portifólio
+<div>
+ <a href="https://lucaslyra01.github.io/" target="_blank" rel="noreferrer">Portifólio</a> 
+</div>
+
 <br>
 <h2 align="center">🔥 Estatísticas</h2>
 <div align="center">
